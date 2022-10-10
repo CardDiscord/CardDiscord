@@ -5,7 +5,7 @@ from discord import Permissions
 from colorama import Fore, Style
 import asyncio
 
-token="MTAyOTEwMTk5NjkzMTgyNTY4NA.GFRzeB.B_lnMGXB0H_q-B1e4QN8ZXOje7VekivuLLxChs"
+token="MTAyOTEwMTk5NjkzMTgyNTY4NA.GPJD2x.i3CxY4IrJUTC9Cvt1LhQAU413fEK-lqQKdG6Po"
 
 
 SPAM_CHANNEL =  ["Card passou aqui"]
